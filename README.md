@@ -1,4 +1,4 @@
-# Normilio
+# 😮 Normilio
 The pragmatic normalize. It only does what you really need.
 
 ## What it does?
