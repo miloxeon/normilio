@@ -11,7 +11,7 @@ The pragmatic normalize. It only does what you really need.
 6. Enables some ligatures but not all of them
 7. Optimizes typeface smoothing and legibility
 8. Sets the system typeface as the default
-9. Turns images to blocks
+9. Turns images into blocks
 10. Prevents images from being resized more than their actual size
 11. Makes HTML fully responsive by default: images, canvases, tables and other quirky tags
 12. Sets `cursor` to `pointer` for all interactive elements
