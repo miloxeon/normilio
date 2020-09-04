@@ -48,7 +48,8 @@ textarea {
 
 button,
 input,
-textarea {
+textarea,
+label[for] {
   cursor: pointer;
 }
 
