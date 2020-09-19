@@ -49,7 +49,7 @@ textarea {
 button,
 input,
 textarea,
-label[for] {
+label {
   cursor: pointer;
 }
 
