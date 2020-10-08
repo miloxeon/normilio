@@ -49,7 +49,8 @@ textarea {
 button,
 input,
 textarea,
-label {
+label,
+select {
   cursor: pointer;
 }
 
