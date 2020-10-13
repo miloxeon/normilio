@@ -46,14 +46,6 @@ textarea {
   max-width: 100%;
 }
 
-button,
-input,
-textarea,
-label,
-select {
-  cursor: pointer;
-}
-
 [hidden] {
   display: none;
 }
