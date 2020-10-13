@@ -14,7 +14,6 @@ The pragmatic normalize. It only does what you really need.
 9. Turns images into blocks
 10. Prevents images from being resized more than their actual size
 11. Makes HTML fully responsive by default: images, canvases, tables and other quirky tags
-12. Sets `cursor` to `pointer` for all interactive elements
 
 ## Usage
 ```HTML
