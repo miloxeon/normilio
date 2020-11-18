@@ -17,5 +17,5 @@ The pragmatic normalize. It only does what you really need.
 
 ## Usage
 ```HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/uyouthe/normilio/normilio.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mvoloskov/normilio/normilio.min.css">
 ```
