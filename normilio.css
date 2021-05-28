@@ -69,7 +69,8 @@ textarea {
 	cursor: progress;
 }
 
-[aria-disabled='true'] {
+[disabled],
+[aria-disabled="true"] {
 	cursor: default;
 }
 
