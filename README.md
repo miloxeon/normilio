@@ -21,8 +21,3 @@ If you support IE6, Android 4.0.4, Opera Mini and other things like this, it's a
 12. Only let users resize `textarea`s vertically
 13. Makes the typeface in `input`s the same as the typeface on your website itself
 14. Uses appropriate cursor based on aria-attributes
-
-## Usage
-```HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mvoloskov/normilio/normilio.min.css">
-```
